@@ -28,7 +28,3 @@ npx skills@latest add <repo-url>
         ├── PRINCIPLES.md  # 六准则详解（待拆分）
         └── ANTIPATTERNS.md # 反模式列表（待拆分）
 ```
-
-## 许可
-
-MIT
