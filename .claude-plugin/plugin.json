@@ -1,0 +1,6 @@
+{
+  "name": "smart-student-skills",
+  "skills": [
+    "./skills/smart-student"
+  ]
+}
