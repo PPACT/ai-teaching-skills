@@ -25,6 +25,6 @@ npx skills@latest add <repo-url>
 └── skills/
     └── smart-student/
         ├── SKILL.md       # 主指令文件
-        ├── PRINCIPLES.md  # 六准则详解（待拆分）
-        └── ANTIPATTERNS.md # 反模式列表（待拆分）
+        ├── PRINCIPLES.md  # 六准则详解（已拆分）
+        └── ANTIPATTERNS.md # 反模式列表（已拆分）
 ```
